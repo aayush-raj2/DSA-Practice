@@ -37,11 +37,5 @@ It includes notes, solved problems, and code examples across all main topics.
 ## How to Use
 1. Browse folders by topic.  
 2. Open files for code or notes.  
-3. Each file is named with the **date and topic**, e.g., `2025-09-10_Array_Basics.md`.  
+3. Each file is named with the **topic** 
 
----
-
-## Daily Plan
-- Study **1 topic per day**.  
-- Create a new file for that topic with the **date prefix**.  
-- Commit and push to GitHub → keeps your **contribution streak visible**.

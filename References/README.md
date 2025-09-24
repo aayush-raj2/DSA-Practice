@@ -6,6 +6,8 @@ A **reference** is an alias for an existing variable. It acts as another name fo
 
 ## 🟦 Example: Reference Variable
 See the code: [`reference_example.cpp`](reference_example.cpp)
+It can also be done in c but c does not support references directly.
+See the code: [`swap_using_pointers.c`](swap_using_pointers.c)
 
 ### Explanation
 - `int &r = a;` → creates reference `r` that refers to variable `a`.  

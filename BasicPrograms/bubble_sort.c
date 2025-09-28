@@ -1,3 +1,10 @@
+/*Logic: Repeatedly swaps adjacent elements if they are in the wrong order.
+Time Complexity:
+Best Case: O(n) (already sorted)
+Average Case: O(n²)
+Worst Case: O(n²)
+Space Complexity: O(1)*/
+
 #include <stdio.h>
 
 // Function to perform Bubble Sort

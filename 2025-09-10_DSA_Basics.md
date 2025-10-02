@@ -1,6 +1,6 @@
-# Day 1: DSA Basics
+# DSA 
 
-## Topics Covered(Small intro)
+## Topics Covered
 - Array
 - Matrices
 - Linked List
